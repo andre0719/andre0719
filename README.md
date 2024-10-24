@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andre0719
 - 👀 I’m interested in game development and the backend
-- 🌱 I’m currently learning java and python
+- 🌱 I’m currently learning java backend and python 
 
 
 <!---
